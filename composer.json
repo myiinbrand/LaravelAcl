@@ -1,12 +1,8 @@
 {
-  "name": "iinbrand/laravel-authentication-acl",
-  "description": "Laravel authentication and ACL package with a cool admin panel",
+  "name": "iinbrand/LaravelAcl",
+  "description": "Laravel authentication and ACL package",
   "keywords": [
-    "acl",
     "authentication",
-    "signup",
-    "admin panel",
-    "profile",
     "laravel"
   ],
   "authors": [

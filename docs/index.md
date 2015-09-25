@@ -32,7 +32,7 @@ To install authentication follow this steps:
       ```
       "require": {
         ...
-        "jacopo/laravel-authentication-acl": "1.3.*"
+        "iinbrand/laravel-acl": "1.3.*"
       },
       ```
 
